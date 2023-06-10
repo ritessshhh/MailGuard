@@ -1,6 +1,6 @@
 # MailGuard
 
-## Introduction
+## Project Overview
 This repository contains the Mail Guard project, a machine learning-based email spam classification system developed to filter and manage your Gmail account's spam folder more effectively. This project leverages the power of Google’s Gmail API and Natural Language Processing (NLP) techniques to retrieve and preprocess emails.
 
 The system utilizes sophisticated algorithms, specifically Support Vector Machines (SVMs) and Random Forest, to train models on preprocessed data with the goal of accurately classifying emails. The project provides an in-depth evaluation of the model’s performance using precision, recall, and F1-score metrics. This system has been rigorously tested and compared against existing state-of-the-art spam filtering systems to ensure optimal spam detection and classification with an impressive accuracy of 96%.
@@ -33,3 +33,18 @@ The project consists of several key components:
 A comprehensive evaluation has been performed on this system. The system has been compared with existing state-of-the-art spam filtering systems and has showcased superior performance with an accuracy of 96%.
 
 Happy spam filtering!
+
+## License
+Copyright [2023] [Ritesh Chavan]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
