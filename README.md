@@ -10,7 +10,7 @@ Before you start, make sure you have a working Python 3.8 (or later) installatio
 
 Clone the repository to your local machine:
 ```bash
-git clone [https://github.com/ritessshhh/mail-guard.git](https://github.com/ritessshhh/MailGuard)
+git clone https://github.com/ritessshhh/MailGuard
 cd MailGuard
 ```
 
